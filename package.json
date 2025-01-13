@@ -1,0 +1,14 @@
+{
+  "name": "kanban-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.6"
+  }
+}
